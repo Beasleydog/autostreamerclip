@@ -1,0 +1,37 @@
+{
+  "example_clips": [
+    "watching TikTok compilations",
+    "watching youtube videos",
+    "watching twitter",
+    "scrolling reddit",
+    "watching \"Daily Dose of Internet\"",
+    "watching live police-chase / true-crime videos",
+    "playing Minecraft speedruns",
+    "playing Mario Kart 8 Deluxe races",
+    "playing GTA RP on NoPixel",
+    "playing slots / gambling streams",
+    "playing Overwatch competitive matches",
+    "playing Valorant ranked",
+    "playing Among Us lobbies",
+    "reacting to new game trailers & showcases"
+  ],
+  "channel_name": "ludwig",
+  "quality": "best",
+  "segment_seconds": 600,
+  "output_dir": "recordings",
+  "example_segment_titles": [
+    "Ludwig Reacts to Absolutely Hilarious Tik Toks",
+    "The Doctor Never Warned Her | Ludwig Reacts to 'Daily Dose of Internet'",
+    "Irresponsible Mom Takes Daughter on Police Chase | Ludwig Reacts",
+    "Ludwig Minecraft Speedruns",
+    "Ludwig plays Minecraft",
+    "Ludwig plays Mario Kart 8 Deluxe EP 64",
+    "Ludwig Loses His Mind Playing Mario Kart 8!",
+    "Ludwig GTA Roleplay Server NoPixel 3.0",
+    "Ludwig Finally Reaches Plastic Rank in Valorant: A New Low!",
+    "Ludwig HITS CRAZY 2 MILLION $ WIN ON PIZZA SLOT",
+    "Ludwig plays Among Us"
+  ],
+  "auto_upload_to_youtube": false,
+  "twitch_id": "40934651"
+}

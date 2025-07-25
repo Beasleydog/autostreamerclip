@@ -1,0 +1,39 @@
+{
+  "example_clips": [
+    "watching TikTok compilations",
+    "watching youtube videos",
+    "watching twitter",
+    "scrolling reddit",
+    "watching \"Daily Dose of Internet\"",
+    "watching live police-chase / true-crime videos",
+    "playing Minecraft speedruns",
+    "playing Mario Kart 8 Deluxe races",
+    "playing GTA RP on NoPixel",
+    "playing slots / gambling streams",
+    "playing Overwatch competitive matches",
+    "playing Valorant ranked",
+    "playing Among Us lobbies",
+    "reacting to new game trailers & showcases"
+  ],
+  "channel_name": "caseoh_",
+  "quality": "720p60",
+  "segment_seconds": 600,
+  "output_dir": "recordings",
+  "example_segment_titles": [
+    "caseoh_ Reacts to Absolutely Hilarious Tik Toks",
+    "The Doctor Never Warned Her | caseoh_ Reacts to 'Daily Dose of Internet'",
+    "Irresponsible Mom Takes Daughter on Police Chase | caseoh_ Reacts",
+    "caseoh_ Minecraft Speedruns",
+    "caseoh_ plays Minecraft",
+    "caseoh_ plays Mario Kart 8 Deluxe EP 64",
+    "caseoh_ Loses His Mind Playing Mario Kart 8!",
+    "caseoh_ GTA Roleplay Server NoPixel 3.0",
+    "caseoh_ Finally Reaches Plastic Rank in Valorant: A New Low!",
+    "caseoh_ HITS CRAZY 2 MILLION $ WIN ON PIZZA SLOT",
+    "caseoh_ plays Among Us"
+  ],
+  "thumbnail_image": "xqc.png",
+  "video_description": "THIS IS A FAN ACCOUNT, NOT AFFILIATED WITH caseoh_ OR TWITCH. \\n \\n Checkout caseoh_ here: https://www.twitch.tv/caseoh_ \\n \\n Reach out to caseoh_clips87@gmail.com to takedown any content.",
+  "auto_upload_to_youtube": true,
+  "twitch_id": "267160288"
+}

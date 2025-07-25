@@ -1,0 +1,37 @@
+{
+  "example_clips": [
+    "watching TikTok compilations",
+    "watching youtube videos",
+    "watching twitter",
+    "scrolling reddit",
+    "watching \"Daily Dose of Internet\"",
+    "watching live police-chase / true-crime videos",
+    "playing Minecraft speedruns",
+    "playing Mario Kart 8 Deluxe races",
+    "playing GTA RP on NoPixel",
+    "playing slots / gambling streams",
+    "playing Overwatch competitive matches",
+    "playing Valorant ranked",
+    "playing Among Us lobbies",
+    "reacting to new game trailers & showcases"
+  ],
+  "channel_name": "jasontheween",
+  "quality": "best",
+  "segment_seconds": 300,
+  "output_dir": "recordings",
+  "example_segment_titles": [
+    "Jasontheween Reacts to Absolutely Hilarious Tik Toks",
+    "The Doctor Never Warned Her | Jasontheween Reacts to 'Daily Dose of Internet'",
+    "Irresponsible Mom Takes Daughter on Police Chase | Jasontheween Reacts",
+    "Jasontheween Minecraft Speedruns",
+    "Jasontheween plays Minecraft",
+    "Jasontheween plays Mario Kart 8 Deluxe EP 64",
+    "Jasontheween Loses His Mind Playing Mario Kart 8!",
+    "Jasontheween GTA Roleplay Server NoPixel 3.0",
+    "Jasontheween Finally Reaches Plastic Rank in Valorant: A New Low!",
+    "Jasontheween HITS CRAZY 2 MILLION $ WIN ON PIZZA SLOT",
+    "Jasontheween plays Among Us"
+  ],
+  "auto_upload_to_youtube": false,
+  "twitch_id": "107117952"
+}

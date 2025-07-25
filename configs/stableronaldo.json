@@ -1,0 +1,35 @@
+{
+  "example_clips": [
+    "watching TikTok compilations",
+    "watching youtube videos",
+    "watching twitter",
+    "scrolling reddit",
+    "watching \"Daily Dose of Internet\"",
+    "watching live police-chase / true-crime videos",
+    "playing Minecraft speedruns",
+    "playing Mario Kart 8 Deluxe races",
+    "playing GTA RP on NoPixel",
+    "playing slots / gambling streams",
+    "playing Overwatch competitive matches",
+    "playing Valorant ranked",
+    "playing Among Us lobbies",
+    "reacting to new game trailers & showcases"
+  ],
+  "channel_name": "stableronaldo",
+  "quality": "best",
+  "segment_seconds": 600,
+  "output_dir": "recordings",
+  "example_segment_titles": [
+    "Stableronaldo Reacts to Absolutely Hilarious Tik Toks",
+    "The Doctor Never Warned Her | Stableronaldo Reacts to 'Daily Dose of Internet'",
+    "Irresponsible Mom Takes Daughter on Police Chase | Stableronaldo Reacts",
+    "Stableronaldo Minecraft Speedruns",
+    "Stableronaldo plays Minecraft",
+    "Stableronaldo plays Mario Kart 8 Deluxe EP 64",
+    "Stableronaldo Loses His Mind Playing Mario Kart 8!",
+    "Stableronaldo GTA Roleplay Server NoPixel 3.0",
+    "Stableronaldo Finally Reaches Plastic Rank in Valorant: A New Low!",
+    "Stableronaldo HITS CRAZY 2 MILLION $ WIN ON PIZZA SLOT",
+    "Stableronaldo plays Among Us"
+  ]
+}

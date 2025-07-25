@@ -1,0 +1,14 @@
+Pillow==10.0.0
+twitch-chat-irc
+moviepy==1.0.3
+requests==2.31.0
+google-genai
+python-dotenv
+# Google API client libraries for YouTube upload functionality
+google-api-python-client==2.126.0
+google-auth-oauthlib==1.2.0
+# Explicitly include httplib2 (pulled in by google-api-python-client, but listed for clarity)
+httplib2==0.22.0
+# moviepy already depends on numpy, but include explicitly to avoid dependency resolution issues
+numpy==1.26.4
+streamlink

@@ -1,0 +1,39 @@
+{
+  "example_clips": [
+    "watching TikTok compilations",
+    "watching youtube videos",
+    "watching twitter",
+    "scrolling reddit",
+    "watching \"Daily Dose of Internet\"",
+    "watching live police-chase / true-crime videos",
+    "playing Minecraft speedruns",
+    "playing Mario Kart 8 Deluxe races",
+    "playing GTA RP on NoPixel",
+    "playing slots / gambling streams",
+    "playing Overwatch competitive matches",
+    "playing Valorant ranked",
+    "playing Among Us lobbies",
+    "reacting to new game trailers & showcases"
+  ],
+  "channel_name": "lacy",
+  "quality": "best",
+  "segment_seconds": 600,
+  "output_dir": "recordings",
+  "example_segment_titles": [
+    "xQc Reacts to Absolutely Hilarious Tik Toks",
+    "The Doctor Never Warned Her | xQc Reacts to 'Daily Dose of Internet'",
+    "Irresponsible Mom Takes Daughter on Police Chase | xQc Reacts",
+    "xQc Minecraft Speedruns",
+    "xQc plays Minecraft",
+    "xQc plays Mario Kart 8 Deluxe EP 64",
+    "xQc Loses His Mind Playing Mario Kart 8!",
+    "xQc GTA Roleplay Server NoPixel 3.0",
+    "XQC Finally Reaches Plastic Rank in Valorant: A New Low!",
+    "XQC HITS CRAZY 2 MILLION $ WIN ON PIZZA SLOT",
+    "xQc plays Among Us"
+  ],
+  "thumbnail_image": "xqc.png",
+  "video_description": "THIS IS A FAN ACCOUNT, NOT AFFILIATED WITH XQC OR TWITCH. \\n \\n Checkout xQc here: https://www.twitch.tv/xqc \\n \\n Reach out to xqcclips87@gmail.com to takedown any content.",
+  "auto_upload_to_youtube": false,
+  "twitch_id": "494543675"
+}
